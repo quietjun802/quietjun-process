@@ -1,15 +1,12 @@
 import './App.css'
-import SquareCalc from './components/SquareCalc'
-import SortableList from './components/SortableList'
+import UserList from './components/UserList'
 function App() {
 
 
 
   return (
     <div>
-      <SquareCalc/>
-      <SortableList/>
-
+      <UserList/>
     </div>
   )
 }
